@@ -1,0 +1,1 @@
+POC on AI tool that acts as me to answer the queries based on my RESUME.
