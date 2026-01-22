@@ -1,1 +1,1 @@
-POC on AI tool that acts as me to answer the queries based on my RESUME.
+POC on an AI assistant trained to simulate professional persona and answer background queries using my CV.
