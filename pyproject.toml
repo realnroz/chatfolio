@@ -5,9 +5,17 @@ description = "Chat App with my portfolio."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "langchain>=1.2.6",
+    "bs4>=0.0.2",
+    "langchain[google-genai]>=1.2.6",
+    "langchain-community>=0.4.1",
+    "langchain-text-splitters>=1.1.0",
     "pydantic>=2.12.5",
     "starlette>=0.52.1",
+    "uvicorn>=0.40.0",
+    "langchain-google-genai>=4.2.0",
+    "langchain-core>=1.2.7",
+    "pymupdf>=1.26.7",
+    "loguru>=0.7.3",
 ]
 
 [dependency-groups]
